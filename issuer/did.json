@@ -3,12 +3,12 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0",
+    "id": "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp",
     "verificationMethod": [
         {
-            "id": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0",
+            "id": "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp",
             "type": "JsonWebKey2020",
-            "controller": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0",
+            "controller": "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp",
             "publicKeyJwk": {
                 "kty": "OKP",
                 "crv": "Ed25519",
@@ -18,18 +18,18 @@
         }
     ],
     "assertionMethod": [
-        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+        "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp"
     ],
     "authentication": [
-        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+        "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp"
     ],
     "capabilityInvocation": [
-        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+        "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp"
     ],
     "capabilityDelegation": [
-        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+        "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp"
     ],
     "keyAgreement": [
-        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+        "did:key:zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp#zmYg9bgKmRiCqTTd9MA1ufVE9tfzUptwQp4GMRxptXquJWw4Uj5beML6PkvW7jgJMmfRPfZb1MiiMFEJZB5DvVwAzF4MaWK4djKAU7m4jQGzKudUp"
     ]
 }
