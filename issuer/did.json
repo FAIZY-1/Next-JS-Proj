@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0",
+    "verificationMethod": [
+        {
+            "id": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0",
+            "type": "JsonWebKey2020",
+            "controller": "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0",
+            "publicKeyJwk": {
+                "kty": "OKP",
+                "crv": "Ed25519",
+                "kid": "Xy2y59beh10mBRWebIQR-893rNGvap1-sZtMGKEQpN8",
+                "x": "7AW0JA8vNp7It75UCuczbn8ah1hds4M8jlDLZ_CtzRc"
+            }
+        }
+    ],
+    "assertionMethod": [
+        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+    ],
+    "authentication": [
+        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+    ],
+    "capabilityInvocation": [
+        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+    ],
+    "capabilityDelegation": [
+        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+    ],
+    "keyAgreement": [
+        "did:jwk:eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5Iiwia2lkIjoiWHkyeTU5YmVoMTBtQlJXZWJJUVItODkzck5HdmFwMS1zWnRNR0tFUXBOOCIsIngiOiI3QVcwSkE4dk5wN0l0NzVVQ3VjemJuOGFoMWhkczRNOGpsRExaX0N0elJjIn0#0"
+    ]
+}
